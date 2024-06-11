@@ -2,7 +2,7 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-image: url('D:\Inchara_Internship\react\project1\eg14\public\bg.jpg');
+    background-color:pink;
     background-size: cover;
     background-position: center;
     padding: 20px;
