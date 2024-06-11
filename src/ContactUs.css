@@ -2,7 +2,7 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-  background-image: url('D:\Inchara_Internship\react\project1\contactus\bg.jpg');
+  background-image: url('D:\Inchara_Internship\react\project1\contactus\public\bg.jpg');
     background-size: cover;
     background-position: center;
     padding: 20px;
