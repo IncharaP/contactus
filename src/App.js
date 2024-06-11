@@ -1,8 +1,6 @@
 // src/App.js
 import React from 'react';
 import ContactUs from './ContactUs';
-
-
 const App = () => {
   return (
     <div>
