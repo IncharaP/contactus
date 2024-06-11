@@ -1,11 +1,14 @@
-
-import './App.css';
+// src/App.js
+import React from 'react';
 import ContactUs from './ContactUs';
 
-function App() {
+
+const App = () => {
   return (
-  <ContactUs/>
+    <div>
+      <ContactUs />
+    </div>
   );
-}
+};
 
 export default App;
