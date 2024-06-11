@@ -1,0 +1,128 @@
+.contact-us-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-image: url('D:\Inchara_Internship\react\project1\eg14\public\bg.jpg');
+    background-size: cover;
+    background-position: center;
+    padding: 20px;
+    height: 100vh;
+    overflow-y: auto;
+  }
+  
+  .contact-us-form {
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    width: 400px;
+    margin-bottom: 20px;
+  }
+  
+  .contact-us-form h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  .form-group label {
+    display: block;
+    font-weight: bold;
+  }
+  
+  .form-group input,
+  .form-group textarea {
+    width: 100%;
+    padding: 8px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  .error-message {
+    color: red;
+  }
+  
+  .buttons {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .buttons .btn {
+    width: 48%;
+  }
+  
+  .btn {
+    padding: 8px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .btn-primary {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+  }
+  
+  .btn-primary:hover {
+    background-color: #0056b3;
+  }
+  
+  .btn-secondary {
+    background-color: #6c757d;
+    color: #fff;
+    border: none;
+  }
+  
+  .btn-secondary:hover {
+    background-color: #545b62;
+  }
+  
+  .submitted-data {
+    background-color: rgba(237, 197, 239, 0.8);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    width: 400px;
+    margin-top: 20px;
+  }
+  
+  .submitted-data h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .contact-us-info {
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    width: 400px;
+    margin-top: 20px;
+  }
+  
+  .contact-us-info h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .contact-us-info p {
+    margin-bottom: 10px;
+  }
+  
+  .contact-us-info a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .contact-us-info a:hover {
+    text-decoration: underline;
+  }
+  
+  .map-container {
+    margin-top: 20px;
+  }
+  
